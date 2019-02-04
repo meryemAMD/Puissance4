@@ -11,8 +11,8 @@
 	<div class="form">
 	<center>
 		<h1>Niveau de jeu </h1> 
-		<h2> <a href="../controleur/fcEasy.php"> <button>Facile </button></a> <br>
-		<a href="../controleur/fcHard.php"> <button>Difficile </button> </a> </h2>
+		<h2> <a href="../controleur/fcEasy.php"> <button> Facile </button></a> <br>
+		<a href="../controleur/fcHard.php"> <button> Difficile </button> </a> </h2>
 	</center>
 	</div>
 	<div class="menu">
